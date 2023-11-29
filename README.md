@@ -4,6 +4,7 @@ Mojor functionalities are working fine with a very similar interface and functio
 If you want to setup it in your system please run the following in the terminal of your respective code editor.
 
 ==> npm install OR npm i
+
 ==> npm start
 
 Your project will appear in your default browser.
